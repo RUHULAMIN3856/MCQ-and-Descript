@@ -1,0 +1,42 @@
+1.  Which database forms a template for any new database that you create--Answer: Model
+2.  when you create a new database on the server, an entry is placed in the--Answer: sysdatabases 
+3.  where the SQL Agent process stores any system tasks --Answer : msdb
+4.  You can have clustered index per table --Answer : One
+5.  which data type in sql server return true of false --Answer : Bit
+6.  Which services is not available in sql server --Answer :security service/QL-Browser
+7.  The NetLibs supplied with SQL Server include by default---Answer : TCP/IP  
+8.  Which not T-SQL statements --Answer: Go
+9.  Which statenent indicates that you are merely reading information from table or view --Answer : SELECT
+10. Think of an --- clause as being a sort by --Answer : ORDER BY
+11. which is used to sepaeted column in select --Answer : ,
+12. which one is wildcard--Answer : asterisk (*)
+13. ORDER BY is used far more often than--Answer : GROUP BY
+14. OUTER JOIN is--Answer: both LEFT and RIGHT
+15. A FULL JOIN is perhaps best described as what --Answer: a LEFT JOIN and a RIGHT JOIN 
+16. which join has no ON operator--Answer : CROSS JOIN
+17. Which operator is used to combine the result-set of two or more query--Answer: UNION 
+18. Returns a Cartesian product containing all possible combinations of rows between the tables--Answer:CROSS JOIN
+19. To separate database objects into logical groups--Answer : Schema 
+20. Which one has to do with the issue of sort order, case sensitivity, and sensitivity to accents--Answer:COLLATE 
+21. Which keys are bi-directional--Answer: foreign keys 
+22. Unique constraints referred as--Answer: alternate keys
+23. Which is basically just an index that doesn’t apply some form of constraint to the table?--Answer : Inversion
+24. You can’t use ……………with OFFSET ... FETCH--Answer : SELECT TOP
+25. The total size of The Extent--Answer: 64KB.
+26. which pages are pretty self-explanatory--Answer: Data pages
+27. A page in an extent is only/Rows can be up to --Answer: 8 KB
+28. How can we protect our view code--Answer: WITH ENCRYPTION option
+29. what’s used for a table without a clustered index--Answer: heap
+30. Which statement sets the current database--Answer: USE
+31. Syntax for declaring variables--Answer : DECLARE @<variable name> <variable type> 
+32. How many ways are there to set the value in a variable--Answer: Three
+33. Errors in batches fall into-----------categories--Answer: Two
+34. Which statement is recognized by SSMS as a batch delimiter : Go
+35. What happen for Syntax errors--Answer: none of the batch/code will be executed
+36. What happen for runtime errors--Answer : Any statement that has executed before the runtime error
+37. The sqlcmd commend for Encrypt Connection--Answer: -N
+38. Which one is correct statement--Answer:EXEC or EXECUTE makes no difference/EXEC or EXECUTE are same
+39. You can include multiple statements as part of your control-of-? ow block using--Answer: BEGIN ... END 
+40.   
+
+
